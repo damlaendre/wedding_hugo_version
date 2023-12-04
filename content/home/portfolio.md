@@ -27,13 +27,13 @@ content:
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
     - name: All
-      tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+      tag: "*"
+    - name: Istanbul
+      tag: TR
+    - name: Sepsiszentgyörgy
+      tag: HU
+    - name: Undecided
+      tag: EN
 
 design:
   columns: '1'
